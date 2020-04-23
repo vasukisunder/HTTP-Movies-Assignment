@@ -54,9 +54,7 @@ body {
   margin: 1rem auto;
 }
 .save-button {
-  position: absolute;
-  top: 25px;
-  right: 25px;
+  margin: 2%;
   border: 1px solid grey;
   padding: 5px 10px;
   background-color: lightseagreen;
